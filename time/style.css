@@ -31,7 +31,7 @@
 }
 
 body {
-	margin: 20px auto 20px;
+	margin: 0px auto 0px;
 	background: var(--main-bg-color);
 	color: var(--main-text-color);
 	font-family: Helvetica, Arial;
